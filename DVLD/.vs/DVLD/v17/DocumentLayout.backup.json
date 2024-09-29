@@ -3,7 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\DVLD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CA486CF-D5DE-41D4-AA7B-44E71DCB70CD}|..\\Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\mdelh\\onedrive\\desktop\\my-full-real-projects\\c#-dotnet-winforms-sqldb-realprojects\\dvld-driver-lisence-manager\\data_access_layer\\clspeopledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CA486CF-D5DE-41D4-AA7B-44E71DCB70CD}|..\\Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\mdelh\\onedrive\\desktop\\my-full-real-projects\\c#-dotnet-winforms-sqldb-realprojects\\dvld-driver-lisence-manager\\data_access_layer\\clsapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA486CF-D5DE-41D4-AA7B-44E71DCB70CD}|..\\Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\mdelh\\onedrive\\desktop\\my-full-real-projects\\c#-dotnet-winforms-sqldb-realprojects\\dvld-driver-lisence-manager\\data_access_layer\\clsusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA486CF-D5DE-41D4-AA7B-44E71DCB70CD}|..\\Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\mdelh\\onedrive\\desktop\\my-full-real-projects\\c#-dotnet-winforms-sqldb-realprojects\\dvld-driver-lisence-manager\\data_access_layer\\clsapplicationstypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CA486CF-D5DE-41D4-AA7B-44E71DCB70CD}|..\\Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\mdelh\\onedrive\\desktop\\my-full-real-projects\\c#-dotnet-winforms-sqldb-realprojects\\dvld-driver-lisence-manager\\data_access_layer\\clscountriesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -12,7 +18,14 @@
       "AbsoluteMoniker": "D:0:0:{8CA486CF-D5DE-41D4-AA7B-44E71DCB70CD}|..\\Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\mdelh\\onedrive\\desktop\\my-full-real-projects\\c#-dotnet-winforms-sqldb-realprojects\\dvld-driver-lisence-manager\\data_access_layer\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D655AD74-39B8-47FE-992B-BEA5854965F7}|DVLD.csproj|c:\\users\\mdelh\\onedrive\\desktop\\my-full-real-projects\\c#-dotnet-winforms-sqldb-realprojects\\dvld-driver-lisence-manager\\dvld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8CA486CF-D5DE-41D4-AA7B-44E71DCB70CD}|..\\Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\mdelh\\onedrive\\desktop\\my-full-real-projects\\c#-dotnet-winforms-sqldb-realprojects\\dvld-driver-lisence-manager\\data_access_layer\\clspeopledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655AD74-39B8-47FE-992B-BEA5854965F7}|DVLD.csproj|C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\DVLD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D655AD74-39B8-47FE-992B-BEA5854965F7}|DVLD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655AD74-39B8-47FE-992B-BEA5854965F7}|DVLD.csproj|C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\DVLD\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D655AD74-39B8-47FE-992B-BEA5854965F7}|DVLD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,7 +36,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 278,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,33 +44,84 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\Data_Access_Layer\\clsApplicationData.cs",
+              "RelativeDocumentMoniker": "..\\Data_Access_Layer\\clsApplicationData.cs",
+              "ToolTip": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\Data_Access_Layer\\clsApplicationData.cs",
+              "RelativeToolTip": "..\\Data_Access_Layer\\clsApplicationData.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:53:28.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsApplicationsTypeData.cs",
+              "DocumentMoniker": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\Data_Access_Layer\\clsApplicationsTypeData.cs",
+              "RelativeDocumentMoniker": "..\\Data_Access_Layer\\clsApplicationsTypeData.cs",
+              "ToolTip": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\Data_Access_Layer\\clsApplicationsTypeData.cs",
+              "RelativeToolTip": "..\\Data_Access_Layer\\clsApplicationsTypeData.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwIAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:13:14.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\DVLD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\DVLD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:57:42.141Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "clsUsersData.cs",
+              "DocumentMoniker": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\Data_Access_Layer\\clsUsersData.cs",
+              "RelativeDocumentMoniker": "..\\Data_Access_Layer\\clsUsersData.cs",
+              "ToolTip": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\Data_Access_Layer\\clsUsersData.cs",
+              "RelativeToolTip": "..\\Data_Access_Layer\\clsUsersData.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAiwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:10:34.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "clsCountriesData.cs",
               "DocumentMoniker": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\Data_Access_Layer\\clsCountriesData.cs",
               "RelativeDocumentMoniker": "..\\Data_Access_Layer\\clsCountriesData.cs",
               "ToolTip": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\Data_Access_Layer\\clsCountriesData.cs",
               "RelativeToolTip": "..\\Data_Access_Layer\\clsCountriesData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwFQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T20:19:13.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "clsPeopleData.cs",
               "DocumentMoniker": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\Data_Access_Layer\\clsPeopleData.cs",
               "RelativeDocumentMoniker": "..\\Data_Access_Layer\\clsPeopleData.cs",
               "ToolTip": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\Data_Access_Layer\\clsPeopleData.cs",
               "RelativeToolTip": "..\\Data_Access_Layer\\clsPeopleData.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwJ0AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAcwJoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T20:16:33.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "clsDataAccessSettings.cs",
               "DocumentMoniker": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\Data_Access_Layer\\clsDataAccessSettings.cs",
               "RelativeDocumentMoniker": "..\\Data_Access_Layer\\clsDataAccessSettings.cs",
@@ -70,15 +134,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\DVLD\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\mdelh\\OneDrive\\Desktop\\My-Full-Real-Projects\\C#-dotnet-winForms-SqlDB-RealProjects\\DVLD-Driver-lisence-Manager\\DVLD\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T20:10:18.937Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-27T20:10:18.937Z"
             }
           ]
         },

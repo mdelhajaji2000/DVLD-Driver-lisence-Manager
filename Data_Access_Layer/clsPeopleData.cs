@@ -81,6 +81,8 @@ namespace Data_Access_Layer
                     Phone = (string)reader["Phone"];
                     CountryID = (int)reader["CountryID"];
                     ImagePath = (string)reader["ImagePath"];
+
+                    IsFound = true;
                 }
             }
             catch (Exception ex)
@@ -129,6 +131,8 @@ namespace Data_Access_Layer
                     Phone = (string)reader["Phone"];
                     CountryID = (int)reader["CountryID"];
                     ImagePath = (string)reader["ImagePath"];
+
+                    IsFound = true;
                 }
             }
             catch (Exception ex)

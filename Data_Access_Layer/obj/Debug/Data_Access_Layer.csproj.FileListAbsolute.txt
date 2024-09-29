@@ -1,0 +1,6 @@
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\DVLD-Driver-lisence-Manager\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\DVLD-Driver-lisence-Manager\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\DVLD-Driver-lisence-Manager\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\DVLD-Driver-lisence-Manager\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\DVLD-Driver-lisence-Manager\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\DVLD-Driver-lisence-Manager\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
